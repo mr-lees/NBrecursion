@@ -29,6 +29,8 @@ public class factorial extends javax.swing.JFrame {
         }
         return result;
         
+        
+       
 /*      Iteration 
 	long result = 1;
 	for (long counter = 1; counter <= N; counter++) 
